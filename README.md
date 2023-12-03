@@ -1,2 +1,0 @@
-# Python-practicals
-python practcials
